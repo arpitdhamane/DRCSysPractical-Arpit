@@ -1,8 +1,8 @@
 //
 //  ServerErrorViewController.swift
-//  practicalencore
+//  DRCSysPractical
 //
-//  Created by Mac Mini on 12/11/20.
+//  Created by Mac Mini on 09/12/20.
 //  
 //
 
